@@ -49,4 +49,5 @@ This boilerplate project has the following dependencies:
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss): Utility-first CSS framework.
 
 You can find the specific version of each dependency in the `package.json` file.
-Feel free to customize this README file according to your project's specific needs.
+
+Feel free to use this Boiler Plate according to your project's specific needs.
