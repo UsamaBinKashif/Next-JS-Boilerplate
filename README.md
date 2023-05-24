@@ -1,14 +1,14 @@
 
 # Boilerplate
 
-This is a boilerplate project for kickstarting your development with Next.js, React, Redux, and Tailwind CSS.
+This is a boilerplate project for kickstarting your development with Next.js.
 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
 - [Scripts](#scripts)
 - [Dependencies](#dependencies)
-- [License](#license)
+
 
 ## Getting Started
 
