@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        golden: "#BE9F56",
+       
         silver: "#737373",
       },
       screens: {
